@@ -24,6 +24,7 @@
 - Coordinated with manufacturers to streamline production processes
 - Delivered other assigned tasks to support team objectives
 
+## Projects
 ### Hua Nan Securities Co., Ltd.
 - **February 2022 - June 2022**
 - Processed documents and managed file archiving efficiently
